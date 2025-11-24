@@ -30,4 +30,4 @@ This project is licensed under the MIT License.
 
 Contact
 
-For any questions or inquiries, please contact us at mailto:info@tasteofafrica.com.
+For any questions or inquiries, please contact us at galanemcg@gmail.com
