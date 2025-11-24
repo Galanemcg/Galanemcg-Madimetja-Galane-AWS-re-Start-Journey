@@ -1,1 +1,4 @@
-Madimetja
+**Readme**
+
+
+In this lab, I have learn the process of launching, resizing, managing, and monitoring an Amazon EC2 instance. Amazon EC2 is a web service that provides resizable compute capacity in the cloud, making it easy to scale the computing resources up or down as needed.
