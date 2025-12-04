@@ -67,6 +67,9 @@ VPC Design	Initial setup of private subnets, NAT Gateways, and Security Groups a
 Insight
 This taught us how to integrate and optimize AWS services to solve the complex technical challenges of a global, high-demand platform as this research serves as a practical lesson in designing a modern, highly available, and scalable cloud application using AWS.
 
+![WhatsApp Image 2025-12-02 at 06 41 00_c6da33c9](https://github.com/user-attachments/assets/34d9c96d-4703-4aa9-98b7-fd75bed48009)
+
+
 Conclusion
 The proposed architecture successfully leverages a suite of AWS managed services—particularly the combination of CloudFront, S3, Auto Scaling compute, and a specialized database layer (DynamoDB/RDS)—to create a global, highly available, and cost-effective foundation for a high-traffic 3D e-commerce platform. This design minimizes operational overhead while ensuring resilience against both sudden traffic spikes and component failures.
 
