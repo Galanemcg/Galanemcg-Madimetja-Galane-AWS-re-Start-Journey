@@ -1,6 +1,9 @@
 
 # **Madimetja Galane Certificates**
 
+![WhatsApp Image 2025-12-08 at 10 17 19_6ad08be7](https://github.com/user-attachments/assets/34825897-9468-467e-b92a-770ce968cbe7)
+
+
 ![AI Practitioner Learning Plan](https://github.com/user-attachments/assets/457c9100-fe84-40a6-9b28-a825d257375c)
 **AI Practitioner Learning Plan**
 ---
