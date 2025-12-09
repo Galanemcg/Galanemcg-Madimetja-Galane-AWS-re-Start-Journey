@@ -1,4 +1,13 @@
 # **3D E-Commerce Architecture on AWS**
+
+Scenario 
+You are part of a startup team launching a next-generation 3D e-commerce web application. 
+This platform will allow users to interact with 3D models of products (e.g., furniture, gadgets, 
+fashion items) before purchasing. Millions of users are expected globally, and the experience 
+must be fast, highly available, secure, and cost-efficient. 
+As a Cloud Practitioner, your role is to design the cloud architecture using AWS services to 
+support this 3D application and meet key business and technical requirements. 
+
 <img width="953" height="1095" alt="image" src="https://github.com/user-attachments/assets/57434f5d-8a0a-4179-aefb-eefabcc5ee1a" />
 <img width="975" height="819" alt="image" src="https://github.com/user-attachments/assets/0432991b-f355-45d2-b321-d86ceb926900" />
 <img width="871" height="766" alt="image" src="https://github.com/user-attachments/assets/a4feb9e2-96e5-4de2-9856-3badd635bc33" />
