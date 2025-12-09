@@ -1,7 +1,7 @@
 # Hi, I'm Madimetja Charles Galane
 
 I am an **Electrical Engineer / Electrical Artisan** with strong technical expertise in electrical systems, safety compliance, and infrastructure maintenance.  
-Currently, I am **unemployed** but actively upskilling through the **AWS re/Start Programme** with Praegnis. I am in the middle of the program and truly enjoying the journey of expanding my cloud computing knowledge.
+Currently, I am **unemployed** but actively upskilling through the **AWS re/Start Programme** with Praegnis. I am in the middle of the program and truly enjoying the journey of expanding my cloud computing knowledge.Coming from a background in engineering,I bring a unique and powerful advantage to the world of cloud architecture. My journey into cloud computing is a continuous path of learning and growth. This repository represents the initial steps of that journey,a testament to my dedication and the practical skills I am gaining in AWS re/start Program.
 
 ---
 
