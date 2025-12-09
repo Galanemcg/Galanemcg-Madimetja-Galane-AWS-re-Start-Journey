@@ -1,7 +1,7 @@
 # Hi, I'm Madimetja Charles Galane
 
 I am an **Electrical Engineer / Electrical Artisan** with strong technical expertise in electrical systems, safety compliance, and infrastructure maintenance.  
-Currently, I am **unemployed** but actively upskilling through the **AWS re/Start Programme** with Praegnis. I am in the middle of the program and truly enjoying the journey of expanding my cloud computing knowledge.Coming from a background in engineering,I bring a unique and powerful advantage to the world of cloud architecture. My journey into cloud computing is a continuous path of learning and growth. This repository represents the initial steps of that journey,a testament to my dedication and the practical skills I am gaining in AWS re/start Program.
+Currently, I am **unemployed** but actively upskilling through the **AWS re/Start Programme** with Praegnis. I am in the middle of the program and truly enjoying the journey of expanding my cloud computing knowledge. Coming from a background in engineering, I bring a unique and powerful advantage to the world of cloud architecture. My journey into cloud computing is a continuous path of learning and growth. This repository represents the initial steps of that journey, a testament to my dedication and the practical skills I am gaining in the AWS re/Start Program.
 
 ---
 
@@ -18,10 +18,27 @@ Currently, I am **unemployed** but actively upskilling through the **AWS re/Star
 ---
 
 ## Currently Learning
-- AWS Cloud Fundamentals  
-- Linux basics and scripting  
-- Networking and security in the cloud  
-- Practical labs and hands-on projects through AWS re/Start  
+Right now I am busy with hands-on labs in:  
+- Cloud Foundations  
+- Linux basics  
+- Networking  
+- Security & IAM  
+- Python programming  
+- Databases (RDS, DynamoDB)  
+- Servers and compute (EC2, Lambda)  
+- AWS Architecture  
+- Systems Operations  
+- Tooling and Automation  
+- Servers  
+- Scaling and Name Resolution  
+- Serverless and Containers  
+- AWS Database Services  
+- AWS Networking Services  
+- Storage and Archiving  
+- Monitoring and Security  
+- Managing Resource Consumption  
+- Automated and Repeatable Deployments  
+- AWS Machine Learning and Generative AI  
 
 ---
 
@@ -53,4 +70,6 @@ Currently, I am **unemployed** but actively upskilling through the **AWS re/Star
 ---
 
 ## Contact
-galanemcg@gmail.com
+Madimetja Galane
+- galanemcg@gmail.com
+- 072 710 7749
