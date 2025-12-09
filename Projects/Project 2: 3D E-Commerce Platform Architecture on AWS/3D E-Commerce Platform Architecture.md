@@ -1,12 +1,17 @@
 # **3D E-Commerce Architecture on AWS**
 
-Scenario 
-You are part of a startup team launching a next-generation 3D e-commerce web application. 
-This platform will allow users to interact with 3D models of products (e.g., furniture, gadgets, 
-fashion items) before purchasing. Millions of users are expected globally, and the experience 
-must be fast, highly available, secure, and cost-efficient. 
-As a Cloud Practitioner, your role is to design the cloud architecture using AWS services to 
-support this 3D application and meet key business and technical requirements. 
+## Scenario  
+
+I am part of a startup team working on a next-generation 3D e-commerce web application.  
+This platform will let users interact with 3D models of products such as furniture, gadgets, and fashion items before making a purchase.  
+
+The application is expected to serve millions of users worldwide, so it must be:  
+- Fast  
+- Highly available  
+- Secure  
+- Cost-efficient  
+
+---
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/57434f5d-8a0a-4179-aefb-eefabcc5ee1a" />
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0432991b-f355-45d2-b321-d86ceb926900" />
@@ -19,8 +24,35 @@ support this 3D application and meet key business and technical requirements.
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3b911173-ddb9-42e5-816c-343d33e8b2cf" />
 
 
+## My Role  
 
+As a Cloud Practitioner, my responsibility is to design the cloud architecture using AWS services to support this 3D application and meet both business and technical requirements.  
 
+---
+
+## Key AWS Services Considered  
+
+- **Compute**: EC2, Lambda, ECS/EKS for scalable and flexible workloads  
+- **Storage & Delivery**: S3 for assets, CloudFront for global content delivery, EFS for shared storage  
+- **Database**: DynamoDB for product catalogs, RDS for transactional data  
+- **Networking & Availability**: Elastic Load Balancer, Route 53, Multi-AZ deployments  
+- **Security**: IAM, WAF, Shield, and KMS for encryption  
+- **Monitoring & Cost Optimization**: CloudWatch, Trusted Advisor, Auto Scaling  
+
+---
+
+## Expected Outcomes  
+
+- Smooth 3D product interaction for users worldwide  
+- Scalable and resilient system to handle traffic spikes  
+- Secure handling of transactions and user data  
+- Optimized costs through serverless and auto-scaling solutions  
+
+---
+Contact:
+- Madimetja Galane: 072 710 7749
+- galanemcg@gmail.com
+  
 
 
 
