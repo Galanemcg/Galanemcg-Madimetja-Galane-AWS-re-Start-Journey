@@ -8,8 +8,8 @@ must be fast, highly available, secure, and cost-efficient.
 As a Cloud Practitioner, your role is to design the cloud architecture using AWS services to 
 support this 3D application and meet key business and technical requirements. 
 
-<img width="953" height="1095" alt="image" src="https://github.com/user-attachments/assets/57434f5d-8a0a-4179-aefb-eefabcc5ee1a" />
-<img width="975" height="819" alt="image" src="https://github.com/user-attachments/assets/0432991b-f355-45d2-b321-d86ceb926900" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/57434f5d-8a0a-4179-aefb-eefabcc5ee1a" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0432991b-f355-45d2-b321-d86ceb926900" />
 <img width="871" height="766" alt="image" src="https://github.com/user-attachments/assets/a4feb9e2-96e5-4de2-9856-3badd635bc33" />
 <img width="745" height="299" alt="image" src="https://github.com/user-attachments/assets/309f7e10-5edf-4b2e-9e67-5420e8301e82" />
 <img width="824" height="276" alt="image" src="https://github.com/user-attachments/assets/4a22eab8-01c8-4103-8761-a265a3782409" />
