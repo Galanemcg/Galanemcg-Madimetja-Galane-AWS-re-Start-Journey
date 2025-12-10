@@ -17,7 +17,8 @@ I learned:
 
 ---
 
-![Generative AI for Decision Makers](https://github.com/user-attachments/assets/dcca89b1-5f5c-45f0-928d-50008b36e1bb)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a888b71f-06b3-4e62-bca6-5e4ebdb061ae" />
+
 
 **Generative AI for Decision Makers**
 
