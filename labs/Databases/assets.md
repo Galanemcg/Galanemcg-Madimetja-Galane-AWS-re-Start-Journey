@@ -56,3 +56,16 @@ To begin the lab:
 
 
 ![WhatsApp Image 2025-11-24 at 20 41 58_b9442268](https://github.com/user-attachments/assets/434dd2bd-f2a4-401e-b5ee-a74486eacb28)
+
+- Accessed the lab environment: I logged into the lab interface where I could interact with a command host terminal.
+- Connected to the database: The command host was pre-configured to connect to the world database using MariaDB.
+- Explored the database structure:
+- Viewed the tables country and city
+- Observed how queries are sent from the user to the command host, then to the database
+- Ran SQL statements:
+- Used commands like CREATE, SHOW, ALTER, and DROP
+- Practiced creating and deleting tables
+- Viewed query results returned from the database to the command host
+
+
+
