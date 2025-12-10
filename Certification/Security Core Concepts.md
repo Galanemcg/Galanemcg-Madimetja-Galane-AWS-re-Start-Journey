@@ -11,3 +11,8 @@ I learned:
 - How to manage access and identity securely
 - How to detect and respond to security threats
 - Best practices for keeping AWS environments safe
+
+## Contact
+Madimetja Galane
+- galanemcg@gmail.com
+- 072 710 7749
