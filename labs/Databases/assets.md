@@ -11,7 +11,6 @@ To begin the lab:
 - Clicked “Create Table”: On the DynamoDB homepage, I saw a prompt to “Create a new table to start exploring DynamoDB.” I clicked the Create Table button.
 
 
-![WhatsApp Image 2025-11-19 at 22 16 43_76a7db7c](https://github.com/user-attachments/assets/709f51e7-3b3c-4b1f-a3c1-9fa597b07c21)
 ![WhatsApp Image 2025-11-18 at 21 19 04_fcdc90bd](https://github.com/user-attachments/assets/ba7a81b9-51e9-4fc1-bc25-31f2b5b23ccc)
 ![WhatsApp Image 2025-11-18 at 21 19 04_fcdc90bd](https://github.com/user-attachments/assets/134b0532-4cbd-4100-92a4-8bce9cf7afec)
 ![WhatsApp Image 2025-11-17 at 22 37 12_5157117f](https://github.com/user-attachments/assets/9c3815c4-3a56-4ff0-9aed-fb0018e919ab)
