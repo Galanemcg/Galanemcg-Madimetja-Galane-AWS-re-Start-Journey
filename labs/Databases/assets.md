@@ -27,5 +27,16 @@ To begin the lab:
 
 
 ![WhatsApp Image 2025-11-17 at 22 37 12_5157117f](https://github.com/user-attachments/assets/9c3815c4-3a56-4ff0-9aed-fb0018e919ab)
+
+- Opened the terminal: I accessed the MariaDB environment through a terminal interface.
+- Connected to the database: Logged into the MariaDB server and selected the world database.
+- Created a table: Used the CREATE TABLE command to make a new table called city with columns Name and     Region.
+- Dropped tables:
+- Removed the city table using DROP TABLE world.city;
+- Also deleted the country table with DROP TABLE world.country;
+- Checked remaining tables: Ran SHOW TABLES; to confirm that no tables were left in the world database.
+- Dropped the database: Executed DROP DATABASE world; to remove the entire database.
+
+
 ![WhatsApp Image 2025-11-15 at 21 37 01_ea11ea3f](https://github.com/user-attachments/assets/bcc86865-eef7-4125-9faf-33158b5af60c)
 ![WhatsApp Image 2025-11-24 at 20 41 58_b9442268](https://github.com/user-attachments/assets/434dd2bd-f2a4-401e-b5ee-a74486eacb28)
