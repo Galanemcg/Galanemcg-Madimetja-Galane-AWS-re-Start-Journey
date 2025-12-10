@@ -12,6 +12,20 @@ To begin the lab:
 
 
 ![WhatsApp Image 2025-11-18 at 21 19 04_fcdc90bd](https://github.com/user-attachments/assets/134b0532-4cbd-4100-92a4-8bce9cf7afec)
+
+- Navigated to EC2: I searched for “EC2” in the services menu and opened the EC2 dashboard.
+- Launched a new instance
+- Clicked on “Launch Instance”
+- Gave the instance a name: Command Host
+- Selected an Amazon Machine Image (AMI): ami-02373b999c076305d
+- Chose an instance type: t3.micro (suitable for basic workloads)
+- Left monitoring disabled for simplicity
+- Configured security settings and networking as default
+- Started the instance: After reviewing the settings, I launched the instance and waited for it to enter the “Running” state.
+
+
+
+
 ![WhatsApp Image 2025-11-17 at 22 37 12_5157117f](https://github.com/user-attachments/assets/9c3815c4-3a56-4ff0-9aed-fb0018e919ab)
 ![WhatsApp Image 2025-11-15 at 21 37 01_ea11ea3f](https://github.com/user-attachments/assets/bcc86865-eef7-4125-9faf-33158b5af60c)
 ![WhatsApp Image 2025-11-24 at 20 41 58_b9442268](https://github.com/user-attachments/assets/434dd2bd-f2a4-401e-b5ee-a74486eacb28)
