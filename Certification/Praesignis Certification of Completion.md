@@ -32,3 +32,8 @@ I learned:
 - Examples of generative AI in action (like chatbots, image generation, and content creation)
 - Risks and limitations of generative AI
 - How to evaluate AI tools for business use
+
+## Contact
+Madimetja Galane
+- galanemcg@gmail.com
+- 072 710 7749
