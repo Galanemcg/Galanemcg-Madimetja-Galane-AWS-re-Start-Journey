@@ -1,7 +1,7 @@
 # **Databases**
 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/eedbf5c7-b6b2-433a-8084-57247ab5cca6" />
 
-![WhatsApp Image 2025-11-19 at 21 08 55_c134b756](https://github.com/user-attachments/assets/8a0e2537-aa99-4690-b6c0-8cff110650c3)
 
 How I started the lab,
 To begin the lab:
