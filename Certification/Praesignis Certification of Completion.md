@@ -1,6 +1,8 @@
 # **Praesignis Certificate of Completion**
 
-![AI Practitioner Learning Plan](https://github.com/user-attachments/assets/457c9100-fe84-40a6-9b28-a825d257375c)
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c1d3a850-0a61-4b74-a1de-9f87b54de301" />
+
 
 **AI Practitioner Learning Plan**
 I completed the AI Practitioner Learning Plan course on 12 September 2025, offered by Praesignis. This course gave me a solid foundation in artificial intelligence and how it’s used in real-world situations.
