@@ -39,4 +39,20 @@ To begin the lab:
 
 
 ![WhatsApp Image 2025-11-15 at 21 37 01_ea11ea3f](https://github.com/user-attachments/assets/bcc86865-eef7-4125-9faf-33158b5af60c)
+
+- Navigated to RDS: I searched for “RDS” in the services menu and opened the dashboard.
+- Created an Aurora database:
+- Clicked on “Create database”
+- Selected Amazon Aurora as the engine type
+- Chose default settings for simplicity
+- Named the database aurora
+- Launched the cluster:
+- Aurora created a regional cluster named aurora
+- It also started provisioning an instance called aurora-instance-1 with the role of Writer
+- Viewed database status:
+- The cluster showed as Available
+- The instance was still in the Creating state
+- A success message confirmed the database was created
+
+
 ![WhatsApp Image 2025-11-24 at 20 41 58_b9442268](https://github.com/user-attachments/assets/434dd2bd-f2a4-401e-b5ee-a74486eacb28)
