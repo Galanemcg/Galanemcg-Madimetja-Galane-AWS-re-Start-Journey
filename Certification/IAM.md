@@ -15,4 +15,7 @@ I recently completed the Introduction to AWS Identity and Access Management (IAM
 
 This course has helped me build my cloud skills and prepare for future AWS certifications. I'm excited to apply my knowledge and continue learning
 
----
+## Contact
+Madimetja Galane
+- galanemcg@gmail.com
+- 072 710 7749
