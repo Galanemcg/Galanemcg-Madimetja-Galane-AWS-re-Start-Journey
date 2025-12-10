@@ -11,3 +11,8 @@ I learned:
 - How to build simple cloud solutions in a gamified environment
 - Basic concepts around security, pricing, and architecture
 - How to think like a cloud practitioner and solve real-world problems
+
+## Contact
+Madimetja Galane
+- galanemcg@gmail.com
+- 072 710 7749
