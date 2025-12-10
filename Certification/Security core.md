@@ -1,5 +1,6 @@
+# **Security Core Concept**
 
-
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e602eb5d-17b9-44f4-9506-e9d626a8561e" />
 
 I completed the AWS SimuLearn: Core Security Concepts course on December 03, 2025, through AWS Training & Certification. This course helped me understand the key ideas behind securing cloud environments using AWS tools and best practices.
 
