@@ -1,4 +1,4 @@
-# **Security Core Concept**
+# **Security Core Concepts**
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e602eb5d-17b9-44f4-9506-e9d626a8561e" />
 
