@@ -31,5 +31,7 @@ RDS Proxy This add-on helps manage database connections more efficiently. It all
 
 ---
 
-![WhatsApp Image 2025-11-17 at 20 39 06_0c20e140](https://github.com/user-attachments/assets/d4b5370f-504a-4b54-9b9c-61c2895e3e88)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c9867f71-1478-44b0-aadd-3088e57a01ed" />
+
+
 ![WhatsApp Image 2025-11-18 at 09 44 27_54827867](https://github.com/user-attachments/assets/ae57b016-0cab-46e9-a033-271f1efe42bc)
