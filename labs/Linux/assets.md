@@ -25,7 +25,11 @@ I added an inbound rule to allow traffic from the Web Security Group. This means
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/8dd64634-cdd7-48cb-af35-ce252525afa7" />
 
+ElastiCache This add-on helps speed up read performance by caching data. It can make MySQL databases up to 80x faster and reduce costs by up to 55%.
 
+RDS Proxy This add-on helps manage database connections more efficiently. It allows applications to pool and share connections, making them more scalable and resilient to failures.
+
+---
 
 ![WhatsApp Image 2025-11-17 at 20 39 06_0c20e140](https://github.com/user-attachments/assets/d4b5370f-504a-4b54-9b9c-61c2895e3e88)
 ![WhatsApp Image 2025-11-18 at 09 44 27_54827867](https://github.com/user-attachments/assets/ae57b016-0cab-46e9-a033-271f1efe42bc)
