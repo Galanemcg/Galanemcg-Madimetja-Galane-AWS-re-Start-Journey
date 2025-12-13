@@ -19,7 +19,7 @@ I added a description to explain its purpose: Permit access from Web Security Gr
 I selected the correct VPC where my resources are hosted.
 
 Step 3: Setting Inbound Rules
-I added an inbound rule to allow traffic from the Web Security Group. This means only the web server can talk to the database server — improving security.
+I added an inbound rule to allow traffic from the Web Security Group. This means only the web server can talk to the database server — improving security.After reviewing the settings, I clicked Create Security Group. A green banner confirmed that the security group was created successfully.
 
 ---
 
