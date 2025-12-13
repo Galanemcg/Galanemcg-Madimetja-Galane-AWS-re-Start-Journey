@@ -11,7 +11,8 @@ To begin the lab:
 - Clicked “Create Table”: On the DynamoDB homepage, I saw a prompt to “Create a new table to start exploring DynamoDB.” I clicked the Create Table button.
 
 
-![WhatsApp Image 2025-11-18 at 21 19 04_fcdc90bd](https://github.com/user-attachments/assets/134b0532-4cbd-4100-92a4-8bce9cf7afec)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9a021533-dcf7-4090-b143-17c1b70b70f5" />
+
 
 - Navigated to EC2: I searched for “EC2” in the services menu and opened the EC2 dashboard.
 - Launched a new instance
