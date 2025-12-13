@@ -39,7 +39,6 @@ To begin the lab:
 - Dropped the database: Executed DROP DATABASE world; to remove the entire database.
 
 ---
-![WhatsApp Image 2025-11-15 at 21 37 01_ea11ea3f](https://github.com/user-attachments/assets/bcc86865-eef7-4125-9faf-33158b5af60c)
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d414e324-76f8-4275-8698-ef3e3377aa03" />
 
 
