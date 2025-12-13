@@ -12,13 +12,11 @@ Coming from an engineering background, I bring a practical mindset and strong te
 
 You can add badges to make your README visually appealing. For example:
 
-```markdown
+```
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
 ![Linux](https://img.shields.io/badge/Linux-Experienced-blue)
 ![Python](https://img.shields.io/badge/Python-Learning-green)
 ![Cloud](https://img.shields.io/badge/Cloud-Computing-yellow)
-```
-
 These badges will show up as colorful tags at the top of your README.
 
 ---
