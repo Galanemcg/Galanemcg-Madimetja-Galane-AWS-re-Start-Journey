@@ -11,6 +11,11 @@ Coming from an engineering background, I bring a practical mindset and strong te
 
 [Cloud Practitioner Training Badge](https://github.com/Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey/blob/main/Certification/Cloud%20Practitioner%20Training%20Badge.md)
 
+[IAM Certification](https://github.com/Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey/blob/main/Certification/IAM.md)
+
+[Praesignis Certification of Completion](https://github.com/Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey/blob/main/Certification/Praesignis%20Certification%20of%20Completion.md)
+
+[Security Core Concepts](https://github.com/Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey/blob/main/Certification/Security%20Core%20Concepts.md)
 
 ---
 
