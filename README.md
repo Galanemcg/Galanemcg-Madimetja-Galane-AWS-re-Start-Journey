@@ -1,75 +1,120 @@
-# Hi, I'm Madimetja Charles Galane
+# AWS Cloud Practitioner Journey
 
-I am an **Electrical Engineer / Electrical Artisan** with strong technical expertise in electrical systems, safety compliance, and infrastructure maintenance.  
-Currently, I am **unemployed** but actively upskilling through the **AWS re/Start Programme** with Praesignis. I am in the middle of the program and truly enjoying the journey of expanding my cloud computing knowledge. Coming from a background in engineering, I bring a unique and powerful advantage to the world of cloud architecture. My journey into cloud computing is a continuous path of learning and growth. This repository represents the initial steps of that journey, a testament to my dedication and the practical skills I am gaining in the AWS re/Start Program.
+Welcome to my AWS Cloud Practitioner learning repository!
 
----
+I’m Madimetja Charles Galane, an Electrical Engineer / Electrical Artisan who is currently upskilling through the AWS re/Start Programme with Praesignis.  
+I’m passionate about cloud computing and continuous learning. This space documents my progress, notes, and hands-on labs as I build my foundational skills in Amazon Web Services (AWS).  
+Coming from an engineering background, I bring a practical mindset and strong technical experience into the world of cloud architecture.
 
-## Skills & Expertise
-- Electrical assembly, wiring, and control system installation  
-- Electrical diagram interpretation & troubleshooting  
-- Substation maintenance and underground cable work  
-- Smart grid and renewable energy system integration  
-- Quality control and safety protocol compliance  
-- Team collaboration and communication  
-- Computer literacy: MS Word, Excel, SAP  
-- Valid Code 10/C1 driver’s license with PDP  
+## What You’ll Find Here
 
----
+- Organized Notes by Module  
+- Hands-on Lab Documentation  
+- Helpful Learning Resources  
+- Reflections from my learning journey  
 
-## Currently Learning
-Right now I am busy with hands-on labs in:  
-- Cloud Foundations  
-- Linux basics  
+## Modules Covered
+
+### Compute  
+Compute is the processing power for applications.  
+Examples I worked with: EC2 (virtual servers), Lambda (serverless functions)  
+It helps apps run smoothly and scale when needed.
+
+### Networking  
+Networking connects AWS resources securely.  
+Examples I used: VPC, Route 53  
+It controls how resources talk to each other and how traffic flows.
+
+### Storage  
+Storage is where I keep data, files, and backups.  
+Examples I used: S3, EBS  
+It’s important for keeping data safe and available.
+
+### Databases  
+Databases store structured application data.  
+Examples I worked with: RDS, DynamoDB  
+They help apps access data quickly and reliably.
+
+### Security  
+I used IAM to control access.  
+I learned about roles, policies, MFA, and basic encryption.  
+Security protects resources and keeps data safe.
+
+## Skills and Technologies
+
+### AWS Services  
+- EC2  
+- S3  
+- RDS  
+- Lambda  
+- VPC  
+- IAM  
+
+### Other Skills  
+- Linux  
+- Python  
 - Networking  
-- Security & IAM  
-- Python programming  
-- Databases (RDS, DynamoDB)  
-- Servers and compute (EC2, Lambda)  
-- AWS Architecture  
-- Systems Operations  
-- Tooling and Automation  
-- Servers  
-- Scaling and Name Resolution  
-- Serverless and Containers  
-- AWS Database Services  
-- AWS Networking Services  
-- Storage and Archiving  
-- Monitoring and Security  
-- Managing Resource Consumption  
-- Automated and Repeatable Deployments  
-- AWS Machine Learning and Generative AI  
+- Databases  
+- Security  
+- Automation  
+- Cloud Architecture  
 
----
+## Projects Completed
 
-## Professional Experience Highlights
-- **Electrical Technician – Street Lighting Maintenance & Installation**  
-  Rampserv Consulting (2025 – Present)  
-  - LED fixture installations, pole-to-pole rewiring, and photocell sensor configuration  
-  - Achieved 99%+ uptime and reduced energy consumption with LED conversions  
+### Static Website  
+Deadline: 28 November  
+I included screenshots and step-by-step explanations.
 
-- **Electrician (HV/MV)**  
-  City Power (2018 – 2024)  
-  - Substation maintenance, underground cable work, and renewable energy integration  
-  - Ensured compliance with safety protocols and documentation standards  
+### 3D Architecture  
+Deadline: 5 December  
+I included architecture diagrams, AWS service breakdowns, and screenshots.
 
-- **Electrical Construction Technician**  
-  Selvest Pty Ltd (2015 – 2018)  
-  - Installed air conditioning systems and wired control panels  
-  - Maintained high-quality standards and safety compliance  
+### EC2 Web Server Lab  
+I launched an EC2 instance, configured security groups, connected via SSH, and hosted a basic web page.
 
----
+### AWS Lex Bot  
+TBD  
+I will include intents, bot logic, and usage screenshots.
+
+## Labs
+
+I completed a minimum of two labs per section (Compute, Storage, Networking, Databases).  
+Each lab is documented with clear explanations, screenshots, and reasons for every step I took.
+
+## My Background
+
+I am an Electrical Engineer / Electrical Artisan with strong experience in electrical systems, safety compliance, and infrastructure maintenance.  
+I am currently unemployed but actively learning cloud computing through AWS re/Start.  
+This repository is part of my journey to transition into cloud architecture and build a new career path.
+
+## Professional Experience
+
+- Electrical Technician – Rampserv Consulting (2025–Present)  
+  - LED installations, rewiring, sensor setup  
+
+- Electrician (HV/MV) – City Power (2018–2024)  
+  - Substation maintenance, underground cable work, renewable energy integration  
+
+- Electrical Construction Technician – Selvest Pty Ltd (2015–2018)  
+  - Air conditioning systems, control panels, safety compliance  
 
 ## Education
-- Electrical Engineering N5 – Bristol Training College (2022)  
-- Electrical Trade Test Certificate – Indlela Olifantsfontein (2020)  
-- Electrical Engineering N4 – Roseville FET College (2017)  
-- Computer Science Diploma – IBN Computer School (1997)  
-- Matric – Dr MJ Madiba High School (1995)  
+
+- Electrical Engineering N5 – Bristol Training College  
+- Electrical Trade Test Certificate – Indlela Olifantsfontein  
+- Electrical Engineering N4 – Roseville FET College  
+- Computer Science Diploma – IBN Computer School  
+- Matric – Dr MJ Madiba High School  
+
+## Contact Information
+
+Madimetja Charles Galane  
+- Email: galanemcg@gmail.com  
+- Phone: 072 710 7749  
+
+## Goal
+
+To gain a strong understanding of AWS core services and prepare for the AWS Certified Cloud Practitioner exam.  
+I’m learning one cloud at a time.
 
 ---
-
-## Contact
-Madimetja Galane
-- galanemcg@gmail.com
-- 072 710 7749
