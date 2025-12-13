@@ -6,6 +6,13 @@ I’m **Madimetja Charles Galane**, an Electrical Engineer / Electrical Artisan 
 I’m passionate about cloud computing and continuous learning. This space documents my progress, notes, and hands-on labs as I build my foundational skills in Amazon Web Services (AWS).  
 Coming from an engineering background, I bring a practical mindset and strong technical experience into the world of cloud architecture.
 
+---
+## Badges & Certifications
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
+![Linux](https://img.shields.io/badge/Linux-Experienced-blue)
+![Python](https://img.shields.io/badge/Python-Learning-green)
+![Cloud](https://img.shields.io/badge/Cloud-Computing-yellow)
+---
 
 ## What You’ll Find Here
 
