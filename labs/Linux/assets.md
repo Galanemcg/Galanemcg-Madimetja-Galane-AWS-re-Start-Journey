@@ -46,4 +46,6 @@ I clicked Open, and PuTTY launched a terminal window. I logged in using the user
 
 ---
 
-![WhatsApp Image 2025-11-18 at 09 44 27_54827867](https://github.com/user-attachments/assets/ae57b016-0cab-46e9-a033-271f1efe42bc)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/92e12b13-127c-4bff-bcbc-9cc5fb0ea399" />
+
+
