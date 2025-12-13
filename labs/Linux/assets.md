@@ -48,5 +48,26 @@ I clicked Open, and PuTTY launched a terminal window. I logged in using the user
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/2ec1c01c-3e25-487a-83e8-324a6d7f2d82" />
 
+Launched an EC2 instance using Amazon Linux 2
+
+Converted my AWS .pem key file into a .ppk file using PuTTYgen
+
+Configured PuTTY with the correct IP address, port (22), and authentication settings
+
+Step 2: Logging In
+I opened the terminal and connected using the username ec2-user. The authentication was done using my imported OpenSSH key, and the login was successful.
+
+Step 3: System Message
+After logging in, the system displayed a message:
+
+I was using Amazon Linux 2
+
+It mentioned that Amazon Linux 2 will reach end of life on June 30, 2026
+
+It also recommended upgrading to Amazon Linux 2023, which is supported until March 15, 2028
+
+Step 4: Ready to Work
+Once logged in, I saw the command prompt: [ec2-user@ip-10-0-10-142 ~]$ This meant I was now inside the EC2 instance and ready to run commands, install software, or configure services.
+
 
 
