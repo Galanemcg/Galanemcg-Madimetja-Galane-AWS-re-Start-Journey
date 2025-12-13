@@ -8,10 +8,8 @@ Coming from an engineering background, I bring a practical mindset and strong te
 
 ---
 ## Badges & Certifications
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
-![Linux](https://img.shields.io/badge/Linux-Experienced-blue)
-![Python](https://img.shields.io/badge/Python-Learning-green)
-![Cloud](https://img.shields.io/badge/Cloud-Computing-yellow)
+Certification/Cloud Practitioner Training Badge.md 
+
 ---
 
 ## What You’ll Find Here
