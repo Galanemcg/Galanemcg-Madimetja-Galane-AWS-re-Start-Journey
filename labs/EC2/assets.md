@@ -1,4 +1,4 @@
-**Amazon ec2**
+**Amazon ec2 Labs**
 ## My Amazon EC2 Lab Journey
 
 I started this lab by logging into the AWS Management Console and navigating to the EC2 (Elastic Compute Cloud) service. My goal was to launch a virtual server that could act as a basic web server.
