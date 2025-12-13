@@ -9,7 +9,6 @@ I started this lab by logging into the AWS Management Console and navigating to 
 - For the Amazon Machine Image (AMI), I selected **Amazon Linux 2**, which is commonly used for web hosting and testing.
 - I chose the **t3.micro** instance type because it's free-tier eligible and suitable for lightweight tasks.
 
-
   ### Step 2: Configuring the Instance
 - I kept the default network settings, which placed the instance in my default VPC and subnet.
 - I made sure to enable **Auto-assign Public IP** so I could connect to the instance from my local machine.
@@ -17,6 +16,7 @@ I started this lab by logging into the AWS Management Console and navigating to 
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/915ccc10-2c03-49f2-b004-fb34f2d2967c" />
 
+---
 
 ### Step 3: Security Group Settings
 - I configured the security group to allow **SSH (port 22)** so I could access the server.
@@ -29,6 +29,7 @@ I started this lab by logging into the AWS Management Console and navigating to 
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/27d555dc-bfc5-4032-af64-c6f2483a4a7b" />
 
+---
 
 ### Step 5: Connecting to the Instance
 - I clicked **Connect**, chose the SSH method, and used the terminal to access the server using the key pair.
@@ -38,7 +39,7 @@ I started this lab by logging into the AWS Management Console and navigating to 
 - I created a basic HTML page and placed it in the web server’s root directory.
 - Then I opened the instance’s public IP in a browser to confirm the page was loading — and it worked!
   
-<img width="1157" height="911" alt="image" src="https://github.com/user-attachments/assets/15bb6aee-0b3d-4c56-8a42-49965872fc13" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/15bb6aee-0b3d-4c56-8a42-49965872fc13" />
 
 ### Final Notes
 - This lab helped me understand how to launch, configure, and connect to an EC2 instance.
