@@ -11,6 +11,9 @@ Coming from an engineering background, I bring a practical mindset and strong te
 Certification/Cloud Practitioner Training Badge.md 
 https://github.com/Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey/blob/main/Certification/Cloud%20Practitioner%20Training%20Badge.md
 
+[Cloud Practitioner Training Badge](https://github.com/Galanemcg/Galanemcg-Madimetja-Galane-AWS-re-Start-Journey/blob/main/Certification/Cloud%20Practitioner%20Training%20Badge.md)
+
+
 ---
 
 ## What You’ll Find Here
