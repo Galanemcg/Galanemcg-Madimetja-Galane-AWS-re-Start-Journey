@@ -57,8 +57,8 @@ To begin the lab:
 - A success message confirmed the database was created
 
 ---
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7d1eaa40-af72-40ac-be76-68879467d4ac" />
 
-![WhatsApp Image 2025-11-24 at 20 41 58_b9442268](https://github.com/user-attachments/assets/434dd2bd-f2a4-401e-b5ee-a74486eacb28)
 
 - Accessed the lab environment: I logged into the lab interface where I could interact with a command host terminal.
 - Connected to the database: The command host was pre-configured to connect to the world database using MariaDB.
