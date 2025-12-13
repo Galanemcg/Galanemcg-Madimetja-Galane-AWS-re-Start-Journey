@@ -1,4 +1,4 @@
-# **Databases**
+# **Databases Labs**
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/eedbf5c7-b6b2-433a-8084-57247ab5cca6" />
 
