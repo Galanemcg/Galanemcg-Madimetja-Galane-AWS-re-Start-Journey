@@ -46,6 +46,7 @@ I clicked Open, and PuTTY launched a terminal window. I logged in using the user
 
 ---
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/92e12b13-127c-4bff-bcbc-9cc5fb0ea399" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/2ec1c01c-3e25-487a-83e8-324a6d7f2d82" />
+
 
 
