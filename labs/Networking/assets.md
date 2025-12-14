@@ -25,6 +25,7 @@ Security Group: Allowed SSH (port 22) and possibly HTTP/HTTPS if web access was 
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d96055a4-ead4-463b-9429-3d65762040b9" />
 
+
 I landed on the VPC Dashboard, which summarizes your networking resources:
 
 VPCs: 1 (likely named VPC1 — matches your EC2 instance config).
