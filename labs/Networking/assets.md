@@ -2,6 +2,27 @@
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b05d36ff-edb6-48b2-94cf-e50dadbd4945" />
 
+. Launched EC2 Instances
+You clicked “Launch Instance” and configured the following:
+
+AMI (Amazon Machine Image): Likely a free-tier eligible Linux image (e.g., Amazon Linux 2023 or Ubuntu).
+
+Instance Type: t3.micro (free-tier eligible, suitable for basic workloads).
+
+Key Pair: Created or selected an existing key pair for SSH access.
+
+Network Settings:
+
+VPC: vpc-0737386373d2360d3 (named VPC1).
+
+Subnet: Availability Zone us-west-2a.
+
+Storage: Default EBS volume (usually 8 GiB).
+
+Security Group: Allowed SSH (port 22) and possibly HTTP/HTTPS if web access was needed.
+
+---
+
 ![WhatsApp Image 2025-11-21 at 22 45 59_3f89badc](https://github.com/user-attachments/assets/5196cfcf-1ae8-4e77-8b8f-d6c75113ebb7)
 ![WhatsApp Image 2025-11-21 at 22 52 19_2ff8c0f9](https://github.com/user-attachments/assets/f44ce50a-6a26-43b1-b1fc-3fce39e9debc)
 ![WhatsApp Image 2025-11-21 at 22 53 25_032075f3](https://github.com/user-attachments/assets/3491177b-c4b5-46ec-87bc-88c1d78a754d)
