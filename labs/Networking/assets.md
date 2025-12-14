@@ -25,6 +25,29 @@ Security Group: Allowed SSH (port 22) and possibly HTTP/HTTPS if web access was 
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d96055a4-ead4-463b-9429-3d65762040b9" />
 
+I landed on the VPC Dashboard, which summarizes your networking resources:
+
+VPCs: 1 (likely named VPC1 — matches your EC2 instance config).
+
+Subnets: 4 (used to segment your VPC across availability zones).
+
+Route Tables: 1 (controls traffic routing within your VPC).
+
+Internet Gateway: 1 (enables internet access for public subnets).
+
+Security Groups & Network ACLs: 1 each (used for traffic filtering and access control).
+
+4. Confirmed Network Setup for EC2
+This step helps verify that your EC2 instances are correctly connected to:
+
+A VPC with internet access.
+
+A subnet in us-west-2a.
+
+A security group allowing SSH (port 22) and possibly HTTP/HTTPS.
+
+---
+
 ![WhatsApp Image 2025-11-21 at 22 52 19_2ff8c0f9](https://github.com/user-attachments/assets/f44ce50a-6a26-43b1-b1fc-3fce39e9debc)
 ![WhatsApp Image 2025-11-21 at 22 53 25_032075f3](https://github.com/user-attachments/assets/3491177b-c4b5-46ec-87bc-88c1d78a754d)
 ![WhatsApp Image 2025-11-21 at 22 59 05_f5b8fd67](https://github.com/user-attachments/assets/2a93da91-2631-42f9-81d4-d958552b6a87)
