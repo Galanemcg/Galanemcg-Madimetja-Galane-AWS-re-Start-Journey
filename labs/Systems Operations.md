@@ -28,3 +28,17 @@ Status: Active — ready to route traffic.
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/8e16d53b-d793-432b-ab7d-16381d7581b8" />
 
+I used the JSON editor to define the policy’s actions:
+This allows the user to perform list operations on AWS CloudFormation — useful for viewing stacks, templates, or resources without making changes.
+
+5. Viewed Policy Summary
+You’re now on the policy details page, reviewing:
+
+Creation timestamp: December 03, 2025.
+
+Permissions tab: Shows the JSON-based rules.
+
+Entities attached: You can attach this policy to users, groups, or roles.
+
+Policy versions: Currently only one version exists.
+
