@@ -109,6 +109,6 @@ DHCP option set: Default — used for assigning internal IP settings.
 ---
 
 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f6f4b72d-22b9-4563-bcc9-0d7b5e8a71c1" />
 
-![WhatsApp Image 2025-11-21 at 22 59 05_f5b8fd67](https://github.com/user-attachments/assets/2a93da91-2631-42f9-81d4-d958552b6a87)
 ![WhatsApp Image 2025-11-21 at 23 02 15_c280fe33](https://github.com/user-attachments/assets/d5978fc0-f8b1-43b6-a834-4c1b2f009b8e)
