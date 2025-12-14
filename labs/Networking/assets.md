@@ -111,4 +111,20 @@ DHCP option set: Default — used for assigning internal IP settings.
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f6f4b72d-22b9-4563-bcc9-0d7b5e8a71c1" />
 
+Opened the “Subnets” Section
+Inside the VPC dashboard, you clicked on “Subnets” to begin dividing your VPC into smaller network segments.
+
+5. Created a Subnet
+You configured the following:
+
+Name tag: Public subnet — this indicates it will be used for resources that need internet access.
+
+Subnet ID: subnet-0bba882b87506a31c — automatically assigned by AWS.
+
+State: Available — ready to be used for EC2 instances or other services.
+
+AWS confirmed successful creation with a green banner.
+
+---
+
 ![WhatsApp Image 2025-11-21 at 23 02 15_c280fe33](https://github.com/user-attachments/assets/d5978fc0-f8b1-43b6-a834-4c1b2f009b8e)
