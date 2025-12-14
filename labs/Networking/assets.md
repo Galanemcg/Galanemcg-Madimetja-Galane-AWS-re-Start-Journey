@@ -127,4 +127,5 @@ AWS confirmed successful creation with a green banner.
 
 ---
 
-![WhatsApp Image 2025-11-21 at 23 02 15_c280fe33](https://github.com/user-attachments/assets/d5978fc0-f8b1-43b6-a834-4c1b2f009b8e)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/3a4ec8f6-882d-45a4-b9f6-94433f5abbf6" />
+
