@@ -73,7 +73,8 @@ IPv6 CIDR block: You chose “No IPv6 CIDR block”, keeping it simple for now.
 
 ---
 
-<img width="1181" height="972" alt="image" src="https://github.com/user-attachments/assets/6b6d7ae0-42cf-47d0-8b28-3ebd6a938f06" />
+<img width="1181" height="972" alt="image" src="https://github.com/user-attachments/assets/8d6ad258-1afe-43cc-bfd6-4e02ed768118" />
+
 
 
 ![WhatsApp Image 2025-11-21 at 22 59 05_f5b8fd67](https://github.com/user-attachments/assets/2a93da91-2631-42f9-81d4-d958552b6a87)
