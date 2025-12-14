@@ -1,6 +1,7 @@
-**Networking**
+**Networking Labs**
 
-![WhatsApp Image 2025-11-19 at 22 16 43_2fb2d2f6](https://github.com/user-attachments/assets/e317e46d-b996-4212-8a5e-12e60b99c49d)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b05d36ff-edb6-48b2-94cf-e50dadbd4945" />
+
 ![WhatsApp Image 2025-11-21 at 22 45 59_3f89badc](https://github.com/user-attachments/assets/5196cfcf-1ae8-4e77-8b8f-d6c75113ebb7)
 ![WhatsApp Image 2025-11-21 at 22 52 19_2ff8c0f9](https://github.com/user-attachments/assets/f44ce50a-6a26-43b1-b1fc-3fce39e9debc)
 ![WhatsApp Image 2025-11-21 at 22 53 25_032075f3](https://github.com/user-attachments/assets/3491177b-c4b5-46ec-87bc-88c1d78a754d)
