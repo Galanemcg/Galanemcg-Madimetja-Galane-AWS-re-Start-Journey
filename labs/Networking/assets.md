@@ -75,6 +75,39 @@ IPv6 CIDR block: You chose “No IPv6 CIDR block”, keeping it simple for now.
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/8d6ad258-1afe-43cc-bfd6-4e02ed768118" />
 
+Opened the VPC Service
+You navigated to VPC (Virtual Private Cloud) from the AWS Console home.
+
+3. Created a Custom VPC
+You clicked “Create VPC” and configured the following:
+
+Name tag: Test VPC — helps identify your VPC in the dashboard.
+
+IPv4 CIDR block: 192.168.0.0/16 — a large private IP range offering 65,536 IP addresses, suitable for complex network setups.
+
+IPv6 CIDR block: None selected — keeping it IPv4-only for simplicity.
+
+Resources to create: You chose “VPC only”, meaning you'll manually add subnets, route tables, and gateways later.
+
+4. VPC Successfully Created
+AWS confirmed the creation with a green banner.
+
+You’re now viewing the details of your VPC, including:
+
+VPC ID: vpc-06e3159bbc09a7547
+
+DNS resolution: Enabled (important for hostname-based communication).
+
+Main route table: rtb-01e7459f90344f67
+
+Main network ACL: acl-0b763b30b62fd1031
+
+Block Public Access: Off (you’ll manage access via security groups and gateways).
+
+DHCP option set: Default — used for assigning internal IP settings.
+
+---
+
 
 
 ![WhatsApp Image 2025-11-21 at 22 59 05_f5b8fd67](https://github.com/user-attachments/assets/2a93da91-2631-42f9-81d4-d958552b6a87)
