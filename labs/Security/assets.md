@@ -100,7 +100,8 @@ Scan type: PACKAGE
 
 ---
 
-![WhatsApp Image 2025-11-25 at 14 11 44_fb58f898](https://github.com/user-attachments/assets/9401998d-c793-42d3-959b-8b3c049b6a1a)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4dbdc13b-f3c6-4912-b89e-ed749d9c85cb" />
+
 ![WhatsApp Image 2025-11-25 at 14 17 32_85379554](https://github.com/user-attachments/assets/a944b92a-7f4b-4c2a-9ea9-54f362d4e995)
 ![WhatsApp Image 2025-11-25 at 14 52 43_0c383ffd](https://github.com/user-attachments/assets/c71f20a7-657b-41e8-81bd-91eeb94356c3)
 ![WhatsApp Image 2025-11-25 at 17 34 22_7be450c7](https://github.com/user-attachments/assets/737e2207-5d4a-4a88-a585-6dc2f3c316f4)
