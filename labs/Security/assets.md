@@ -102,6 +102,26 @@ Scan type: PACKAGE
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4dbdc13b-f3c6-4912-b89e-ed749d9c85cb" />
 
+Navigated to Fleet Manager → Managed Nodes
+
+I clicked into Fleet Manager, a sub-feature of Systems Manager.
+
+Then selected Managed Nodes to view all EC2 instances that are registered and actively monitored.
+
+Viewed Node Details
+
+The dashboard shows 6 managed nodes, with 3 visible in the screenshot:
+
+Linux-3 and Linux-1 running Amazon Linux
+
+Windows-1 running Microsoft Windows
+
+All nodes are in Running status.
+
+A banner suggests enabling Default Host Management Configuration to automatically manage EC2 instances in your account and region.
+
+---
+
 ![WhatsApp Image 2025-11-25 at 14 17 32_85379554](https://github.com/user-attachments/assets/a944b92a-7f4b-4c2a-9ea9-54f362d4e995)
 ![WhatsApp Image 2025-11-25 at 14 52 43_0c383ffd](https://github.com/user-attachments/assets/c71f20a7-657b-41e8-81bd-91eeb94356c3)
 ![WhatsApp Image 2025-11-25 at 17 34 22_7be450c7](https://github.com/user-attachments/assets/737e2207-5d4a-4a88-a585-6dc2f3c316f4)
