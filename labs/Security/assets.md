@@ -64,7 +64,8 @@ Then selected the Lambda Functions tab to view scanning coverage and status.
 
 ---
 
-![WhatsApp Image 2025-11-25 at 13 48 16_54034bdc](https://github.com/user-attachments/assets/6372f4c0-e747-48f3-a5dd-2106385479f2)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a354c628-51ff-474b-98ad-d3282162458e" />
+
 ![WhatsApp Image 2025-11-25 at 14 11 44_fb58f898](https://github.com/user-attachments/assets/9401998d-c793-42d3-959b-8b3c049b6a1a)
 ![WhatsApp Image 2025-11-25 at 14 17 32_85379554](https://github.com/user-attachments/assets/a944b92a-7f4b-4c2a-9ea9-54f362d4e995)
 ![WhatsApp Image 2025-11-25 at 14 52 43_0c383ffd](https://github.com/user-attachments/assets/c71f20a7-657b-41e8-81bd-91eeb94356c3)
