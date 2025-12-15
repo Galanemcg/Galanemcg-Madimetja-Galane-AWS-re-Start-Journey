@@ -2,6 +2,24 @@
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/fbb75a08-01dd-4ac8-ad69-63ef950ce751" />
 
+I activated Inspector to scan supported resources like EC2 instances, Lambda functions, and container images.
+
+You may have configured permissions via IAM roles to allow Inspector to access and scan these resources.
+
+Triggered Your First Scan
+
+The green banner “Welcome to Inspector. Your first scan is underway” confirms that you initiated the first scan.
+
+This scan checks for critical vulnerabilities across your environment.
+
+Reached the Dashboard View
+
+The dashboard shows environment coverage (e.g., Lambda functions at 100%) and critical findings (currently 0 across all categories).
+
+You can now explore findings by resource type (EC2, Lambda, containers, etc.) and dive deeper into security insight.
+
+---
+
 
 ![WhatsApp Image 2025-11-25 at 13 26 36_50dbca56](https://github.com/user-attachments/assets/71cbd5ca-05e4-489b-ba20-b08027aff417)
 ![WhatsApp Image 2025-11-25 at 13 47 13_72876fcd](https://github.com/user-attachments/assets/d53c1f99-10bb-4624-8596-5a4e4fc680b3)
