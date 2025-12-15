@@ -20,6 +20,33 @@ You can now explore findings by resource type (EC2, Lambda, containers, etc.) an
 ---
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c0647996-a089-422d-afb3-9daacbd80082" />
+Enabled Amazon Inspector
+
+I activated Inspector to scan EC2, ECR (Elastic Container Registry), and Lambda functions.
+
+This step involved setting up permissions and enabling scanning across your AWS account or member accounts.
+
+Triggered Your First Scan
+
+The blue banner “Welcome to Inspector…” confirms that scanning is active.
+
+Inspector began analyzing your resources for known vulnerabilities using CVE (Common Vulnerabilities and Exposures) data.
+
+Navigated to Findings → All Findings
+
+You clicked into the Findings section and selected All findings to view every vulnerability detected so far.
+
+This view ranks findings by severity and shows details like:
+
+CVE ID (e.g., CVE-2024-35195)
+
+Impacted resource (e.g., get-request)
+
+Type (e.g., Package)
+
+Severity (e.g., Medium)
+
+---
 
 ![WhatsApp Image 2025-11-25 at 13 47 13_72876fcd](https://github.com/user-attachments/assets/d53c1f99-10bb-4624-8596-5a4e4fc680b3)
 ![WhatsApp Image 2025-11-25 at 13 48 16_54034bdc](https://github.com/user-attachments/assets/6372f4c0-e747-48f3-a5dd-2106385479f2)
