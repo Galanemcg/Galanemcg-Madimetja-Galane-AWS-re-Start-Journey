@@ -2,7 +2,8 @@
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/fbb75a08-01dd-4ac8-ad69-63ef950ce751" />
 
-I activated Inspector to scan supported resources like EC2 instances, Lambda functions, and container images.
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ba00913d-36bd-46ab-89d2-5b977d14874d" />
+
 
 You may have configured permissions via IAM roles to allow Inspector to access and scan these resources.
 
