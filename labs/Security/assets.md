@@ -48,7 +48,8 @@ Severity (e.g., Medium)
 
 ---
 
-![WhatsApp Image 2025-11-25 at 13 47 13_72876fcd](https://github.com/user-attachments/assets/d53c1f99-10bb-4624-8596-5a4e4fc680b3)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/edde0fb1-796a-44ce-8893-8674f3559e5d" />
+
 ![WhatsApp Image 2025-11-25 at 13 48 16_54034bdc](https://github.com/user-attachments/assets/6372f4c0-e747-48f3-a5dd-2106385479f2)
 ![WhatsApp Image 2025-11-25 at 14 11 44_fb58f898](https://github.com/user-attachments/assets/9401998d-c793-42d3-959b-8b3c049b6a1a)
 ![WhatsApp Image 2025-11-25 at 14 17 32_85379554](https://github.com/user-attachments/assets/a944b92a-7f4b-4c2a-9ea9-54f362d4e995)
