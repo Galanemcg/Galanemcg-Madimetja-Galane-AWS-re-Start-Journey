@@ -66,6 +66,40 @@ Then selected the Lambda Functions tab to view scanning coverage and status.
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a354c628-51ff-474b-98ad-d3282162458e" />
 
+Enabled Inspector Scanning for Lambda Functions
+
+I previously activated Amazon Inspector to scan EC2, ECR, and Lambda.
+
+This step ensures your Lambda functions are monitored for package-level vulnerabilities.
+
+Navigated to Resources Coverage → Lambda Functions
+
+I clicked into the Resources Coverage section on the left sidebar.
+
+Then selected Lambda Functions to view which functions are being scanned.
+
+Viewed Scanning Details for Each Function
+
+The table shows:
+
+Function names (e.g., generate-..., get-reque...)
+
+AWS account ID
+
+Runtime (Python-based)
+
+Status: Actively monitored
+
+Last scanned date: November
+
+Filters confirm you're viewing:
+
+Resource type: AWS Lambda Function
+
+Scan type: PACKAGE
+
+---
+
 ![WhatsApp Image 2025-11-25 at 14 11 44_fb58f898](https://github.com/user-attachments/assets/9401998d-c793-42d3-959b-8b3c049b6a1a)
 ![WhatsApp Image 2025-11-25 at 14 17 32_85379554](https://github.com/user-attachments/assets/a944b92a-7f4b-4c2a-9ea9-54f362d4e995)
 ![WhatsApp Image 2025-11-25 at 14 52 43_0c383ffd](https://github.com/user-attachments/assets/c71f20a7-657b-41e8-81bd-91eeb94356c3)
