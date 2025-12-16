@@ -226,5 +226,6 @@ Open the email and click the Confirm subscription link.
 
 ---
 
-![WhatsApp Image 2025-11-25 at 19 42 56_b7bb86cb](https://github.com/user-attachments/assets/85f46702-3a36-4934-a4c3-1d9bc0522a34)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a0273af3-5a89-491f-b31e-e6634cad7ef5" />
+
 ![WhatsApp Image 2025-11-25 at 19 46 52_8690892b](https://github.com/user-attachments/assets/c06b5549-569d-49f1-907a-bc4078a309d9)
