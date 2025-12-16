@@ -7,7 +7,8 @@ To get to this step in the lab, I logged into the AWS Console and searched for C
 
 ---
 
-![WhatsApp Image 2025-11-26 at 20 53 45_b5d4650e](https://github.com/user-attachments/assets/b8222317-410d-48ab-ab13-c57e60af9830)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ecc5e7a1-4126-4130-a3d3-4d037674f9e3" />
+
 ![WhatsApp Image 2025-11-26 at 21 05 06_d8e9a52c](https://github.com/user-attachments/assets/b2b1a629-1641-4b50-8d70-420bfc8820c4)
 ![WhatsApp Image 2025-11-26 at 21 15 27_e07f77d2](https://github.com/user-attachments/assets/bca10dd4-b867-4742-8d17-4bc604e7e378)
 ![WhatsApp Image 2025-11-26 at 21 19 03_1ca62ba9](https://github.com/user-attachments/assets/e288ff5c-1412-4d19-b2cc-9085720dd393)
