@@ -181,6 +181,30 @@ Prevent reuse of previous passwords.
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4594fc56-3d2d-4bea-9994-9db8940f3a6c" />
 
+Attach a Policy to the Group
+Inside the group details, go to the Permissions tab.
+
+Click Add permissions > Attach policies directly.
+
+Search for AmazonEC2ReadOnlyAccess — this is an AWS managed policy.
+
+Select it and click Next, then Add permissions.
+
+Step 5: Review Policy Details (Optional but Recommended)
+After attaching the policy, you can click on it to view its JSON definition.
+
+This shows what actions are allowed:
+
+ec2:Describe* — lets users view EC2 resources.
+
+elasticloadbalancing:Describe* — view ELB settings.
+
+cloudwatch:ListMetrics — access CloudWatch metrics.
+
+All actions are set to "Effect": "Allow" and "Resource": "*" meaning full read-only access across your account.
+
+---
+
 ![WhatsApp Image 2025-11-25 at 19 41 24_0a09fe3a](https://github.com/user-attachments/assets/5c51a19e-a4bc-4a14-a640-8deb52785a20)
 ![WhatsApp Image 2025-11-25 at 19 42 56_b7bb86cb](https://github.com/user-attachments/assets/85f46702-3a36-4934-a4c3-1d9bc0522a34)
 ![WhatsApp Image 2025-11-25 at 19 46 52_8690892b](https://github.com/user-attachments/assets/c06b5549-569d-49f1-907a-bc4078a309d9)
