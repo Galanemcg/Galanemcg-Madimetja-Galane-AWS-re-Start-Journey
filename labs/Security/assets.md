@@ -155,6 +155,30 @@ Use Export to S3 to save reports.
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/5662d1c4-cd58-42ee-8bab-f3018725e1c2" />
 
+In the AWS Console search bar, type IAM.
+
+Click on IAM (Identity and Access Management) from the results.
+
+Step 3: Navigate to Account Settings
+In the left-hand sidebar, under Access management, click on Account settings.
+
+Step 4: Review or Configure Password Policy
+You'll now see the Password policy section.
+
+This is where you can:
+
+Set minimum password length.
+
+Require uppercase, lowercase, numbers, and special characters.
+
+Set password expiration (e.g., 90 days).
+
+Allow users to change their own passwords.
+
+Prevent reuse of previous passwords.
+
+---
+
 ![WhatsApp Image 2025-11-25 at 17 38 55_3346824d](https://github.com/user-attachments/assets/0d7ff390-0665-4388-be63-cca188fd0ae4)
 ![WhatsApp Image 2025-11-25 at 19 41 24_0a09fe3a](https://github.com/user-attachments/assets/5c51a19e-a4bc-4a14-a640-8deb52785a20)
 ![WhatsApp Image 2025-11-25 at 19 42 56_b7bb86cb](https://github.com/user-attachments/assets/85f46702-3a36-4934-a4c3-1d9bc0522a34)
