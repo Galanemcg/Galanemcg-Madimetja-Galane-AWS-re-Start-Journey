@@ -205,6 +205,7 @@ All actions are set to "Effect": "Allow" and "Resource": "*" meaning full read-o
 
 ---
 
-![WhatsApp Image 2025-11-25 at 19 41 24_0a09fe3a](https://github.com/user-attachments/assets/5c51a19e-a4bc-4a14-a640-8deb52785a20)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6a227492-ecfe-4c50-af07-50e94d6b5c16" />
+
 ![WhatsApp Image 2025-11-25 at 19 42 56_b7bb86cb](https://github.com/user-attachments/assets/85f46702-3a36-4934-a4c3-1d9bc0522a34)
 ![WhatsApp Image 2025-11-25 at 19 46 52_8690892b](https://github.com/user-attachments/assets/c06b5549-569d-49f1-907a-bc4078a309d9)
