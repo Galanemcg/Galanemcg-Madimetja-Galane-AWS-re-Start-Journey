@@ -13,6 +13,7 @@ To get to this step in the lab, I opened my Cloud9 environment from the AWS Cons
 
 ---
 
-![WhatsApp Image 2025-11-26 at 21 05 06_d8e9a52c](https://github.com/user-attachments/assets/b2b1a629-1641-4b50-8d70-420bfc8820c4)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/64a18209-a48b-4949-b047-1f65c30a03e8" />
+
 ![WhatsApp Image 2025-11-26 at 21 15 27_e07f77d2](https://github.com/user-attachments/assets/bca10dd4-b867-4742-8d17-4bc604e7e378)
 ![WhatsApp Image 2025-11-26 at 21 19 03_1ca62ba9](https://github.com/user-attachments/assets/e288ff5c-1412-4d19-b2cc-9085720dd393)
