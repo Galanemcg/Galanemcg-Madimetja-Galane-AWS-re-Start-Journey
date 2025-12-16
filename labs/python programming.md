@@ -15,5 +15,9 @@ To get to this step in the lab, I opened my Cloud9 environment from the AWS Cons
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/64a18209-a48b-4949-b047-1f65c30a03e8" />
 
+To get to this step in the lab, I opened my Cloud9 environment and used the terminal to check which versions of Python are installed. I ran commands like python --version, python2 --version, and python3 --version to see the outputs. This helped me confirm that Python 3.8.20 is available for writing and running modern Python code, while Python 2.7.18 is also installed but mostly outdated. This step is useful to make sure I’m using the right version for my scripts.
+
+---
+
 ![WhatsApp Image 2025-11-26 at 21 15 27_e07f77d2](https://github.com/user-attachments/assets/bca10dd4-b867-4742-8d17-4bc604e7e378)
 ![WhatsApp Image 2025-11-26 at 21 19 03_1ca62ba9](https://github.com/user-attachments/assets/e288ff5c-1412-4d19-b2cc-9085720dd393)
