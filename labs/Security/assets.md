@@ -124,6 +124,35 @@ A banner suggests enabling Default Host Management Configuration to automaticall
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/52955a71-e1ef-465c-a2a0-36e9bfb9fcb5" />
 
+Navigate to Patch Manager
+In the left-hand sidebar of Systems Manager, scroll down to Node Tools.
+
+Click on Patch Manager.
+
+Step 5: Access Compliance Reporting
+Inside Patch Manager, you'll see tabs like:
+
+Compliance reporting
+
+Patch baselines
+
+Patches
+
+Click on Compliance reporting to view patch status across your managed nodes.
+
+Step 6: View Node Patching Details
+You’ll now see a list of nodes with patching status.
+
+You can:
+
+Click View log to see patching activity.
+
+Click View detail for more insights.
+
+Use Export to S3 to save reports.
+
+---
+
 ![WhatsApp Image 2025-11-25 at 14 52 43_0c383ffd](https://github.com/user-attachments/assets/c71f20a7-657b-41e8-81bd-91eeb94356c3)
 ![WhatsApp Image 2025-11-25 at 17 34 22_7be450c7](https://github.com/user-attachments/assets/737e2207-5d4a-4a88-a585-6dc2f3c316f4)
 ![WhatsApp Image 2025-11-25 at 17 38 55_3346824d](https://github.com/user-attachments/assets/0d7ff390-0665-4388-be63-cca188fd0ae4)
