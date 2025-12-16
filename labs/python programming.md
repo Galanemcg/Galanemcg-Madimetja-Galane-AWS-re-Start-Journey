@@ -27,3 +27,7 @@ To get to this step in the lab, I opened my Cloud9 environment and created a Pyt
 
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/17251e33-b0c1-4265-b8a9-aa4bcfee758e" />
 
+To get to this step in the lab, I opened my Cloud9 environment and edited the hello-world.py file to include two print statements—one that prints "Hello, World" and another that prints my name, "Hello, Madimetja Galane". I then ran the script using the terminal, and it displayed both messages correctly. This confirmed that my Python setup is working and that I can personalize my code output.
+
+
+
