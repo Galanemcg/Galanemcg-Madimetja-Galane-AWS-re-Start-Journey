@@ -228,4 +228,27 @@ Open the email and click the Confirm subscription link.
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a0273af3-5a89-491f-b31e-e6634cad7ef5" />
 
+After creation, you’re redirected to the Subscription Details page.
+
+You’ll see:
+
+Subscription ID: A unique identifier (e.g., 30fdeb5-eddd-4c9f-acb4-565145060a22)
+
+Subscription ARN: Full Amazon Resource Name for the subscription.
+
+Protocol: EMAIL
+
+Endpoint: Your email address
+
+Status: Pending confirmation
+
+Step 3: Confirm the Subscription
+Check your email inbox for a message from AWS Notifications.
+
+Click the Confirm subscription link inside that email.
+
+Once confirmed, the Status will change from Pending confirmation to Confirmed.
+
+---
+
 ![WhatsApp Image 2025-11-25 at 19 46 52_8690892b](https://github.com/user-attachments/assets/c06b5549-569d-49f1-907a-bc4078a309d9)
