@@ -179,7 +179,8 @@ Prevent reuse of previous passwords.
 
 ---
 
-![WhatsApp Image 2025-11-25 at 17 38 55_3346824d](https://github.com/user-attachments/assets/0d7ff390-0665-4388-be63-cca188fd0ae4)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4594fc56-3d2d-4bea-9994-9db8940f3a6c" />
+
 ![WhatsApp Image 2025-11-25 at 19 41 24_0a09fe3a](https://github.com/user-attachments/assets/5c51a19e-a4bc-4a14-a640-8deb52785a20)
 ![WhatsApp Image 2025-11-25 at 19 42 56_b7bb86cb](https://github.com/user-attachments/assets/85f46702-3a36-4934-a4c3-1d9bc0522a34)
 ![WhatsApp Image 2025-11-25 at 19 46 52_8690892b](https://github.com/user-attachments/assets/c06b5549-569d-49f1-907a-bc4078a309d9)
