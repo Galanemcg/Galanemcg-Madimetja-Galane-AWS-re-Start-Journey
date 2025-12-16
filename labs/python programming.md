@@ -21,4 +21,8 @@ To get to this step in the lab, I opened my Cloud9 environment and used the term
 
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/f0218881-270f-4365-943c-a14352460ae9" />
 
+To get to this step in the lab, I opened my Cloud9 environment and created a Python file called hello-world.py. Inside the file, I wrote a simple script that prints "Hello, World" twice. Then I ran the script using the terminal at the bottom of the IDE, and it showed the output correctly. This step helped me test that Python is working and that I can run basic code in the Cloud9 setup.
+
+---
+
 ![WhatsApp Image 2025-11-26 at 21 19 03_1ca62ba9](https://github.com/user-attachments/assets/e288ff5c-1412-4d19-b2cc-9085720dd393)
