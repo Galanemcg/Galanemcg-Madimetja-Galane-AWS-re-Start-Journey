@@ -9,6 +9,10 @@ To get to this step in the lab, I logged into the AWS Console and searched for C
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ecc5e7a1-4126-4130-a3d3-4d037674f9e3" />
 
+To get to this step in the lab, I opened my Cloud9 environment from the AWS Console and created a new Python file called Untitled1.py. I started editing the file in the code editor, and I could see my project folder (reStart-python-c9) on the left and the terminal at the bottom ready for commands. This setup lets me write and test Python code directly in the browser without needing to install anything on my computer.
+
+---
+
 ![WhatsApp Image 2025-11-26 at 21 05 06_d8e9a52c](https://github.com/user-attachments/assets/b2b1a629-1641-4b50-8d70-420bfc8820c4)
 ![WhatsApp Image 2025-11-26 at 21 15 27_e07f77d2](https://github.com/user-attachments/assets/bca10dd4-b867-4742-8d17-4bc604e7e378)
 ![WhatsApp Image 2025-11-26 at 21 19 03_1ca62ba9](https://github.com/user-attachments/assets/e288ff5c-1412-4d19-b2cc-9085720dd393)
