@@ -25,4 +25,5 @@ To get to this step in the lab, I opened my Cloud9 environment and created a Pyt
 
 ---
 
-![WhatsApp Image 2025-11-26 at 21 19 03_1ca62ba9](https://github.com/user-attachments/assets/e288ff5c-1412-4d19-b2cc-9085720dd393)
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/17251e33-b0c1-4265-b8a9-aa4bcfee758e" />
+
