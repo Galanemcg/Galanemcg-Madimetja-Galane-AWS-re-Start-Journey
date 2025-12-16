@@ -253,3 +253,19 @@ Once confirmed, the Status will change from Pending confirmation to Confirmed.
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/372d6f9a-09ee-4c02-b466-442507be9ad3" />
 
+Confirm Subscription Status
+Look for the subscription linked to your topic (e.g., MyCwAlarm) and email (e.g., galanemcg@gmail.com).
+
+Check the Status column — it should now say Confirmed.
+
+This means you clicked the confirmation link sent to your email and the subscription is active.
+
+Step 4: Manage Subscription (Optional)
+You can now:
+
+Edit the subscription settings.
+
+Delete it if no longer needed.
+
+Create additional subscriptions for other endpoints (e.g., SMS, Lambda, etc.).
+
