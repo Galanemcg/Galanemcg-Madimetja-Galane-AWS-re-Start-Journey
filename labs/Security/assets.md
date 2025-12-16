@@ -153,7 +153,6 @@ Use Export to S3 to save reports.
 
 ---
 
-![WhatsApp Image 2025-11-25 at 14 52 43_0c383ffd](https://github.com/user-attachments/assets/c71f20a7-657b-41e8-81bd-91eeb94356c3)
 ![WhatsApp Image 2025-11-25 at 17 34 22_7be450c7](https://github.com/user-attachments/assets/737e2207-5d4a-4a88-a585-6dc2f3c316f4)
 ![WhatsApp Image 2025-11-25 at 17 38 55_3346824d](https://github.com/user-attachments/assets/0d7ff390-0665-4388-be63-cca188fd0ae4)
 ![WhatsApp Image 2025-11-25 at 19 41 24_0a09fe3a](https://github.com/user-attachments/assets/5c51a19e-a4bc-4a14-a640-8deb52785a20)
