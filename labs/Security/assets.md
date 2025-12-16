@@ -207,5 +207,24 @@ All actions are set to "Effect": "Allow" and "Resource": "*" meaning full read-o
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6a227492-ecfe-4c50-af07-50e94d6b5c16" />
 
+Create a Subscription
+In the SNS dashboard, click Subscriptions in the sidebar.
+
+Click Create subscription.
+
+Step 5: Fill in Subscription Details
+Topic ARN: Paste the ARN of your SNS topic.
+
+Protocol: Select Email from the dropdown.
+
+Endpoint: Enter your email address (e.g., galanemcg@gmail.com).
+
+Step 6: Confirm the Subscription
+After clicking Create subscription, AWS will send a confirmation email to the address you entered.
+
+Open the email and click the Confirm subscription link.
+
+---
+
 ![WhatsApp Image 2025-11-25 at 19 42 56_b7bb86cb](https://github.com/user-attachments/assets/85f46702-3a36-4934-a4c3-1d9bc0522a34)
 ![WhatsApp Image 2025-11-25 at 19 46 52_8690892b](https://github.com/user-attachments/assets/c06b5549-569d-49f1-907a-bc4078a309d9)
