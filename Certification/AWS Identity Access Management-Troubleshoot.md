@@ -15,3 +15,8 @@ Key skills I gained include:
 - Fixing permission errors and access problems
 
 This training strengthened my understanding of AWS security and access control.
+
+## Contact
+Madimetja Galane
+- galanemcg@gmail.com
+- 072 710 7749
