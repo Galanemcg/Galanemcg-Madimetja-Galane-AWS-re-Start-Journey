@@ -17,3 +17,8 @@ This course strengthened my practical skills in:
 
 - Cloud computing
 - Database operations in AWS environments
+
+## Contact
+Madimetja Galane
+- galanemcg@gmail.com
+- 072 710 7749
