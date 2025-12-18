@@ -8,14 +8,17 @@
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0a44881f-a5c2-4b03-b1bf-70f13889a605" />
 
 
-Overview
+***Overview*
+
 This document outlines the serverless chatbot we built to teach AWS Identity and Access Management through scenario-based questioning. Our differentiator is creating a space where students make real decisions, mess up safely, and learn before mistakes become production disasters.
 
-What Are Chatbots?
+***What Are Chatbots?*
 Programs that simulate conversations using natural language processing. We built ours for education using AWS Lex, Amazon's conversational AI service.
 
-Why IAM Over S3?
+***Why IAM Over S3?*
+
 Three reasons:
+
 - 40% of cloud security breaches stem from IAM misconfigurations
 - Every AWS user touches IAM daily (you can skip S3, but not identity management)
 - We identified three confusion points students consistently face:
@@ -25,21 +28,25 @@ Three reasons:
 
 These aren't academic problems. We've watched teams make these exact mistakes in real environments. (See presentation slides 2-3 for detailed problem analysis.)
 
-Architecture
+***Architecture*
 Serverless design with Amazon Lex V2 (conversation layer) and AWS Lambda (business logic). Deployed in Cape Town (af-south-1) using English (ZA) as required. Scales automatically with minimal cost.
 
-Service Selection & Rationale
-1. Amazon Lex V2: The Conversation Layer
+***Service Selection & Rationale*
+***1. Amazon Lex V2: The Conversation Layer*
 Amazon Lex is AWS's chatbot service powered by the same technology behind Alexa. It handles language understanding and conversation flow management.
+
 Key Configuration:
+
 - Bot: CloudLearnersSecurityBot
 - Language: English (ZA) - project specification requirement
 - Intents: IAMInfo (Part 1) and IAMQuiz (Part 2)
 - Slot Type: QuizAnswer (A/B/C options)
 - Utterances: Progressed from 1 (Part 1 requirement) to 7 (Part 2)
+- 
 We chose V2 for superior multi-turn conversation handling and better Lambda integration.
 
-2. AWS Lambda: The Intelligence
+***2. AWS Lambda: The Intelligence*
+
 Lambda provides the conditional logic Lex cannot handle alone. The project required branching: IF correct then next question, IF incorrect then explain why. This needs executable code.
 Implementation:
 - 3-question quiz with 4 distinct conversation paths
@@ -48,7 +55,8 @@ Implementation:
 - CloudWatch logging at every decision point
 Production-grade code with helper functions, null checks, and extensive comments.
 
-3. CloudWatch: Monitoring & Debugging
+***3. CloudWatch: Monitoring & Debugging*
+
 Serverless functions run ephemerally in AWS infrastructure. CloudWatch logs every intent trigger, slot capture, answer normalization, branching decision, and error. Critical for troubleshooting the issues detailed below.
 
 Meeting Project Requirements
@@ -67,12 +75,14 @@ Delivered:
 - Natural language input handling
 - Professional presentation (see attached PowerPoint)
 
-Key Differentiator
+***Key Differentiator*
+
 We asked "Your EC2 needs S3 access. IAM User or Role?" instead of "What is an IAM Role?" Wrong answers trigger teaching moments with production consequences explained, transforming evaluation into education.
 
 ---
 
-Challenges & Solutions
+***Challenges & Solutions*
+
 1. Lambda Permission Denied
     - Problem: Built everything, got "Access Denied" errors with no clear explanation.
     - Root Cause: Lambda requires explicit resource-based policy granting (link unavailable) invoke permissions. AWS security is deny-by-default.
@@ -92,7 +102,8 @@ Challenges & Solutions
 
 ---
 
-Design Trade-offs
+***Design Trade-offs*
+
 - Serverless vs Traditional Architecture
     - Choice: Serverless for zero infrastructure management and pay-per-use pricing
     - Trade-off: Harder debugging, mitigated with comprehensive CloudWatch logging
