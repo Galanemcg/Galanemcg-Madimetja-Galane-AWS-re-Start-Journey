@@ -64,7 +64,7 @@ Secure handling of user data
 
 Cost optimization through serverless solutions
 
---
+---
 
 3. IAM Security Training Chatbot – Cloud Learners Inc.
 A serverless chatbot built to teach AWS Identity and Access Management (IAM) through scenario-based quizzes.
@@ -105,6 +105,6 @@ Input handling → regex normalization for conversational answers
 Response formatting → improved readability with separators and headers
 
 ---
-Contact Information  
+   Contact Information  
 👤 Madimetja Charles Galane
 📧 galanemcg@gmail.com
