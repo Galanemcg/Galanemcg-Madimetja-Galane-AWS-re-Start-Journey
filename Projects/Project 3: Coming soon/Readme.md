@@ -1,8 +1,8 @@
 # **Architecture Design Document: IAM Security Training Chatbot**
 
-Prepared by: Group 6 - AWS re/Start Program
-Project 3: Cloud Learners Inc. Interactive IAM Quiz Bot
-Date: December 18, 2025
+ Prepared by: Group 6 - AWS re/Start Program
+ Project 3: Cloud Learners Inc. Interactive IAM Quiz Bot
+ Date: December 18, 2025
 ---
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0a44881f-a5c2-4b03-b1bf-70f13889a605" />
