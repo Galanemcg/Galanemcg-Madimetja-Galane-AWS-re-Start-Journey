@@ -87,15 +87,7 @@ Each lab is documented with clear explanations, screenshots, and reasons for eve
 - Electrical Trade Test Certificate – Indlela Olifantsfontein  
 - Electrical Engineering N4 – Roseville FET College  
 - Computer Science Diploma – IBN Computer School  
-- Matric – Dr MJ Madiba High School  
-
----
-
-## Contact Information
-
-Madimetja Charles Galane  
-- Email: **galanemcg@gmail.com**  
-- Phone: **072 710 7749**  
+- Matric – Dr MJ Madiba High School    
 
 ---
 
@@ -105,3 +97,9 @@ To gain a strong understanding of AWS core services and prepare for the AWS Cert
 Learning one cloud at a time.
 
 ---
+
+## Contact Information
+
+Madimetja Charles Galane  
+- Email: **galanemcg@gmail.com**  
+- Phone: **072 710 7749**
