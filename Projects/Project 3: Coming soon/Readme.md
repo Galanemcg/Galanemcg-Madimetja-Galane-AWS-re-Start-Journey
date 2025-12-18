@@ -115,3 +115,10 @@ We asked "Your EC2 needs S3 access. IAM User or Role?" instead of "What is an IA
     - Strategic Decision: S3 was safe; IAM was strategic
     - Justification: 40% of breaches involve IAM. Storage is a feature; security is a foundation
 
+---
+
+## Contact Information
+
+Madimetja Charles Galane  
+- Email: **galanemcg@gmail.com**  
+- Phone: **072 710 7749**
