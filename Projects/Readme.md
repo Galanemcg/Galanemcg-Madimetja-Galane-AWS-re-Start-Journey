@@ -1,4 +1,5 @@
-📌 Projects Overview
+** Projects Overview**
+
 1. Taste Of Africa – Restaurant Website
 A responsive web application designed to celebrate the vibrant food culture of Africa.
 
@@ -21,8 +22,7 @@ Remix Icon for graphics
 License  
 MIT License
 
-Contact  
-📧 galanemcg@gmail.com
+---
 
 2. 3D E-Commerce Architecture on AWS
 A next-generation 3D e-commerce platform architecture designed for scalability, security, and global availability.
@@ -64,9 +64,7 @@ Secure handling of user data
 
 Cost optimization through serverless solutions
 
-Contact  
-📞 072 710 7749
-📧 galanemcg@gmail.com
+---
 
 3. IAM Security Training Chatbot – Cloud Learners Inc.
 A serverless chatbot built to teach AWS Identity and Access Management (IAM) through scenario-based quizzes.
@@ -106,6 +104,7 @@ Input handling → regex normalization for conversational answers
 
 Response formatting → improved readability with separators and headers
 
+---
 Contact Information  
 👤 Madimetja Charles Galane
 📧 galanemcg@gmail.com
