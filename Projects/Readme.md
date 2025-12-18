@@ -1,4 +1,4 @@
-** Projects Overview**
+ Projects Overview
 
 1. Taste Of Africa – Restaurant Website
 A responsive web application designed to celebrate the vibrant food culture of Africa.
@@ -64,7 +64,7 @@ Secure handling of user data
 
 Cost optimization through serverless solutions
 
----
+--
 
 3. IAM Security Training Chatbot – Cloud Learners Inc.
 A serverless chatbot built to teach AWS Identity and Access Management (IAM) through scenario-based quizzes.
