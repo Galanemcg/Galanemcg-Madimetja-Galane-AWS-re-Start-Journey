@@ -9,3 +9,8 @@ I completed the AWS Foundations: Machine Learning Basics course on December 19, 
 - It proves that I understand the basics of how computers can learn from data.
 - This achievement is a starting point for building more advanced skills in machine learning and cloud computing.
 - It adds value to my career journey because it connects my learning to data science, AI, and cloud technologies.
+
+## Contact
+Madimetja Galane
+- galanemcg@gmail.com
+- 072 710 7749
